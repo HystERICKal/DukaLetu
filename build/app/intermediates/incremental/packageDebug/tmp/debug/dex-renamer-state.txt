@@ -1,0 +1,4 @@
+#Tue Sep 24 13:30:59 CAT 2019
+base.0=E\:\\e_commerce\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
